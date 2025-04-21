@@ -7,12 +7,6 @@ This project demonstrates a **real-time hand gesture recognition system** using 
 
 ---
 
-## 📸 Demo
-
-https://github.com/yourusername/your-repo/assets/demo.mp4 *(optional)*
-
----
-
 ## 🧰 Tech Stack
 
 | Tool | Purpose |
