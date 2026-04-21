@@ -354,7 +354,7 @@ Contributions of all kinds are welcome and greatly appreciated!
 # 1. Fork the repository on GitHub
 
 # 2. Clone your fork
-git clone https://github.com/ibtesaamaslam/Gesture-Recognition-Model.git
+git clone https://github.com/[YOUR-USERNAME]/Gesture-Recognition-Model.git
 
 # 3. Create a feature branch
 git checkout -b feature/add-thumbs-up-gesture
