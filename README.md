@@ -1,3 +1,7 @@
+
+<img width="1024" height="682" alt="image" src="https://github.com/user-attachments/assets/eadc145d-e9f1-4bf7-84a5-96f7d9477152" />
+<br/>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -7,7 +11,7 @@
 <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Platform-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 # ✋ Real-Time Hand Gesture Recognition
 ### *MediaPipe · OpenCV · Scikit-learn SVM*
